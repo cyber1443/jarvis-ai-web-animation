@@ -1,7 +1,7 @@
 # jarvis-ai-web-animation
 
 <p align="center">
-  <img src="./assets/orb-hero.png" alt="Jarvis orb" width="420" />
+  <img src="https://raw.githubusercontent.com/cyber1443/jarvis-ai-web-animation/main/assets/orb-hero.png" alt="Jarvis orb" width="420" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@ A Jarvis-style AI orb for React, powered by Three.js. Drop it into any React app
 
 **[→ Live demo](https://cyber1443.github.io/jarvis-ai-web-animation/)** — see all built-in palettes, custom palettes, custom states, and pointer interaction in action.
 
-![All variants](./assets/orb-preview.png)
+![All variants](https://raw.githubusercontent.com/cyber1443/jarvis-ai-web-animation/main/assets/orb-preview.png)
 
 - **State-driven**: switch between built-in moods (`idle`, `thinking`, `success`, `alert`) or supply your own state target.
 - **Themeable**: use a built-in palette (`cyan`, `aurora`, `ember`) or pass an arbitrary 5-color palette object.
